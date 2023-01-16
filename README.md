@@ -1,5 +1,3 @@
-# 15-Instalar-Mosquitto
-
 # Introducción
 
 Mosquitto es un servidor de mensajería de código abierto que implementa el protocolo MQTT (Message Queuing Telemetry Transport). MQTT es un protocolo de comunicación de mensajería leve diseñado para la conectividad en dispositivos IoT y redes de área amplia.
